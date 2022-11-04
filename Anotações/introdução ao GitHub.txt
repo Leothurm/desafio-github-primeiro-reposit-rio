@@ -1,0 +1,18 @@
+PASSO A PASSO PARA ENTREGAR PROJETOS
+
+1-  Após criado o repositório no GitHub, abrir o "gitbash here" na pasta preparada para receber o repositório;
+
+2- Copiar o link do repositório no GitHub e dar o comando no gitbash: 
+git clone https://github.com/leothurm/desafio... (link que foi copiado github);
+
+3- Utilizar o comando "cd nome da pasta que trouxemos do github"
+
+4- Utilizar o comando "git status" para verificar se está tudo OK;
+
+5- Utilizar o comando "git add ." para enviar as novas pastas para o controle de versionamento local;
+
+6- Utilizar o comando "git status" para verificar se está tudo OK;
+
+7- Utilizar o comando "git commit -m "colocar uma descrição legal"";
+
+8- Utilizar o comando "git push origin main" para enviar os commits que estão localmente para a nuvem;
